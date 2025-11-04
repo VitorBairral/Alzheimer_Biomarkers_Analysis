@@ -1,5 +1,11 @@
+
+<img width="450" height="450" alt="Brasão Quest4 (1)" src="https://github.com/user-attachments/assets/c5165f2b-1097-4989-95d6-c95af7e654b4" />
+
+
 # Alzheimer Biomarkers Analysis
 Por Ana Carolina Sayumi Imahata Alves, João Roberto Bonardi Kniphoff da Cruz e Vitor Araújo Bairral
+
+"Eu não treinei modelos, eu treinei k-vizinhos"
 
 Este repositório foi criado para o projeto final da disciplina de Aprendizado de Máquina do curso de Bacharelado em Ciência e Tecnologia da Ilum Escola de Ciência. 
 Para este trabalho, foi demandado que se obtivesse um dataset com pelo menos 1 target, 6 atributos e 200 exemplos. A partir deste dataset, deveríamos induzir modelos preditivos
@@ -38,8 +44,3 @@ $\cdot$ Regressão Logística.ipynb: Executa e testa um modelo de regressão log
 $\cdot$ Supported Vector Machine.ipynb: Executa e testa um modelo SVM.
 
 $\cdot$ random_forest.ipynb: Executa e testa um modelo de floresta aleatória.
-
-$\cdot$ Conclusões.md: É o registro das conclusões obtidas com os testes de modelo.
-
-## Referências
-[1] CRAIG-SCHAPIRO, R.; KUHN, M.; XIONG, C.; et al. Multiplexed immunoassay panel identifies novel CSF biomarkers for Alzheimer’s disease diagnosis and prognosis. PLoS ONE, v. 6, n. 4, e18850, 2011. DOI: 10.1371/journal.pone.0018850
