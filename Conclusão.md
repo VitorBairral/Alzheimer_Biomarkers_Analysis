@@ -1,4 +1,5 @@
 ## Conclusão
+A partir dos testes realizados com os modelos, chegamos às seguintes métricas:
 
 |Modelos|Métricas| |
 |:-:|:-:|:-:|
