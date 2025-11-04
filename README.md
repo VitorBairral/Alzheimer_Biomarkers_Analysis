@@ -1,5 +1,7 @@
 
-<img width="450" height="450" alt="Brasão Quest4 (1)" src="https://github.com/user-attachments/assets/6fe38753-1c86-43a1-987d-1564c62c3888" />
+<img width="1920" height="714" alt="Apresentação final LA (2)" src="https://github.com/user-attachments/assets/42ad130c-8bf6-43ff-aa26-c249fda20a5e" />
+
+<img width="1920" height="358" alt="Apresentação final LA" src="https://github.com/user-attachments/assets/38b9d977-25c3-4dfa-97ba-f2b70bddc605" />
 
 
 # Alzheimer Biomarkers Analysis
