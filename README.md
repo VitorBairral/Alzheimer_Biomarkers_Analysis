@@ -38,3 +38,8 @@ $\cdot$ Regressão Logística.ipynb: Executa e testa um modelo de regressão log
 $\cdot$ Supported Vector Machine.ipynb: Executa e testa um modelo SVM.
 
 $\cdot$ random_forest.ipynb: Executa e testa um modelo de floresta aleatória.
+
+$\cdot$ Conclusões.md: É o registro das conclusões obtidas com os testes de modelo.
+
+## Referências
+[1] CRAIG-SCHAPIRO, R.; KUHN, M.; XIONG, C.; et al. Multiplexed immunoassay panel identifies novel CSF biomarkers for Alzheimer’s disease diagnosis and prognosis. PLoS ONE, v. 6, n. 4, e18850, 2011. DOI: 10.1371/journal.pone.0018850
